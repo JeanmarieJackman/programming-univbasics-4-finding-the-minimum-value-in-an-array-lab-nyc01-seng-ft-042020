@@ -1,4 +1,4 @@
-ef find_min_value(array)
+def find_min_value(array)
   count = 0
   min_value = 11
   while count < array.length do
@@ -8,4 +8,4 @@ ef find_min_value(array)
     count += 1
   end
   min_value
-endd
+end
